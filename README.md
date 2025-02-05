@@ -3,14 +3,14 @@
 Welcome to the repository for the Course Enrollment Analysis at The Best Trust! This project aims to analyze the data regarding student enrollments in various courses offered by The Best Trust. The objective of this analysis is to identify trends, predict enrollment numbers, and optimize course offerings to meet student needs and interests.
 
 ## Technologies Used
-SQL: For querying and processing data from the database.
-R: Used for statistical analysis and modeling.
-Excel: Used for data manipulation and visualization.
-Tableau: For creating visual dashboards and charts.
+SQL: For querying and processing data from the database.  
+R: Used for statistical analysis and modeling.  
+Excel: Used for data manipulation and visualization.  
+Tableau: For creating visual dashboards and charts.  
 ## Installation
 To run the scripts or analyses contained in this repository, you need to install necessary packages and environments. Make sure that you have R installed along with libraries such as tidyverse, forecast, and caret. For SQL, a database server such as MySQL or PostgreSQL is required. Detailed instructions for installation and configuration can be found in the docs folder.
 
-Usage
+## Usage
 Start by cloning this repository to your local machine:
 
 bash
@@ -22,5 +22,5 @@ Open the analysis.R file to view the analysis scripts, or access queries.sql to 
 Contributions to this project are welcome! If you have suggestions or improvements, please open a Pull Request or an Issue.
 
 ## Contact
-If you have any questions, please contact [your name] via email at [your email].
+If you have any questions, please contact Tan via email: Tanh60022@gmail.com.
 
